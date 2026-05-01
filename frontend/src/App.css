@@ -1,0 +1,2 @@
+/* App-level layout resets — component styles live in index.css */
+* { box-sizing: border-box; }
