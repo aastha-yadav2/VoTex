@@ -202,7 +202,12 @@ The Gemini AI is instructed to:
 - Gracefully fall back to offline responses if API key is not set
 
 ---
+## ☁️ Google Cloud Services Used
 
+- Google Cloud Run (Backend Deployment)
+- Cloud Build (Containerization)
+- Artifact Registry (Image Storage)
+- 
 ## 📌 Important Links
 
 | Resource | URL |
